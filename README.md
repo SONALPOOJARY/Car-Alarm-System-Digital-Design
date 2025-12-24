@@ -63,6 +63,7 @@ The alarm is activated based on logical conditions derived from the input signal
 - `Code/` – Verilog source code  
 - `Documentation/` – Project report (PDF)  
 - `Circuit_Diagrams/` – Logic diagram, K-map, flowchart
+- `Images/` – FPGA Output Test
 ---
 
 ## 🚀 Applications
