@@ -54,7 +54,7 @@ The alarm is activated based on logical conditions derived from the input signal
 - Digital Logic Design concepts  
 - Boolean Algebra  
 - K-map simplification  
-- (Optional) FPGA / Simulation tools  
+- FPGA / Simulation tools  
 
 ---
 
@@ -62,8 +62,7 @@ The alarm is activated based on logical conditions derived from the input signal
 
 - `Code/` – Verilog source code  
 - `Documentation/` – Project report (PDF)  
-- `Circuit_Diagrams/` – Logic diagram, K-map, flowchart (if available)  
-
+- `Circuit_Diagrams/` – Logic diagram, K-map, flowchart
 ---
 
 ## 🚀 Applications
